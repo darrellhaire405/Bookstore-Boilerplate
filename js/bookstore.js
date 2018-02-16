@@ -1,6 +1,6 @@
 var book1 = {
     "id": 1,
-    "name": "Lasagna: A Retrospective",
+    "name": "Lasagna: The perfect dish",
     "author": "Garfield",
     "pictureUrl": "http://graphics8.nytimes.com/images/2015/10/15/dining/15RECIPE20DIN/15RECIPE20DIN-articleLarge.jpg",
     "price": 24,

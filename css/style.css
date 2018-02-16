@@ -1,4 +1,12 @@
 /* add style! */
+body {
+  background-color: #75e0d0;
+}
+
+h3 {
+  font-family: 'Cinzel', serif;
+}
+
 .navigation {
   padding-top: 1em;
 }
